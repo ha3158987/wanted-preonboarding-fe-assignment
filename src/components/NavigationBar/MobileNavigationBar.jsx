@@ -75,6 +75,9 @@ const UserFeatureList = styled.ul`
   align-items:center;
   li {
     padding: 0 10px;
+    button {
+      cursor: pointer;
+    }
   }
 `;
 
